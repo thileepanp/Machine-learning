@@ -1,2 +1,2 @@
 # Machine-learning
-collection of my works in feature engineering and machine learning
+collection of my work and practice in machine learning
